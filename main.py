@@ -51,8 +51,8 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **Music Player**
-- Repo: [GitHub](https://github.com/LEGEND-OS/MUSIC-VC)
-- Owner: @The_LegendBoy
+- Repo: [GitHub](https://github.com/AGORA-OP/KANNADIGA-MUSIC)
+- Owner: @Mr_Professor_Agora
 """
 
 
@@ -69,7 +69,7 @@ async def repo(_, message: Message):
 )
 @handle_error
 async def ping(_, message: Message):
-    await message.reply_text(f"🤖 **Pong!**\n`{await pytgcalls.ping} ms`")
+    await message.reply_text(f"🤖 **HEL_MACHA!**\n`{await pytgcalls.ping} ms`")
 
 
 @app.on_message(
