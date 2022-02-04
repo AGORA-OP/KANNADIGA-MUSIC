@@ -6,7 +6,7 @@
 
 ## U CAN USE THIS BUTTON WITHOUT FORK IF ERROR " Like Salesforce Violate" Then READ DOWN ONE MESSAGE 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDBOYOP/Music-VC)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AGORA-OP/KANNADIGA-MUSIC)
 
 ------------
 
@@ -19,12 +19,12 @@
 
 -------------
 
-## [REPL](https://t.me/LEGEND_STRINGSESSIONBOT)
+## [REPL](https://t.me/PYROSTRBOT)
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-OS/Music-VC
-$ cd MusicPlayer
+$ git clone https://github.com/AGORA-OP/KANNADIGA-MUSIC
+$ cd KANNADIGA-MUSIC
 $ cp sample.env .env
 < edit .env with your own values >
 $ sudo docker build . -t musicplayer
